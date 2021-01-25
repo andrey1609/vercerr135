@@ -1,0 +1,4 @@
+baseURL = "https://designmoob7.vercel.app"
+languageCode = "en-us"
+title = "Design Cards Bussines"
+theme = "tale-hugo-master"
